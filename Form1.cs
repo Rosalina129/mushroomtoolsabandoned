@@ -17,9 +17,20 @@ namespace mushroomtools
             OpenFileDialog DataSaves = new OpenFileDialog();
         }
 
-        private void panel1_Paint(object sender, PaintEventArgs e)
+        private void makeAMapToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            Form2 mapmaker = new Form2();
+            mapmaker.ShowDialog();
+        }
 
+        private void designerToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+        }
+
+        private void hUDEditorToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form3 design = new Form3();
+            design.ShowDialog();
         }
     }
 }
