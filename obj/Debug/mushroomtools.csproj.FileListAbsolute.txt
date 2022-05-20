@@ -1,9 +1,0 @@
-F:\VSProjects\mushroomtools\bin\Debug\mushroomtools.exe
-F:\VSProjects\mushroomtools\bin\Debug\mushroomtools.pdb
-F:\VSProjects\mushroomtools\obj\Debug\mushroomtools.csproj.AssemblyReference.cache
-F:\VSProjects\mushroomtools\obj\Debug\mushroomtools.Form1.resources
-F:\VSProjects\mushroomtools\obj\Debug\mushroomtools.Properties.Resources.resources
-F:\VSProjects\mushroomtools\obj\Debug\mushroomtools.csproj.GenerateResource.cache
-F:\VSProjects\mushroomtools\obj\Debug\mushroomtools.csproj.CoreCompileInputs.cache
-F:\VSProjects\mushroomtools\obj\Debug\mushroomtools.exe
-F:\VSProjects\mushroomtools\obj\Debug\mushroomtools.pdb
